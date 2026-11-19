@@ -82,7 +82,7 @@ This project adopts a secondary-data-based financial and strategic research appr
 
 The primary analysis covers FY2022–FY2026, with Q1 and Q2 FY2027 results used as supplementary current-period information.
 
-The research will use:
+## The research will use:
 
 Audited annual reports.
 
@@ -97,3 +97,4 @@ Industry reports.
 Competitor disclosures.
 
 Historical financial and operational data.
+
